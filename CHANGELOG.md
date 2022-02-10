@@ -1,5 +1,33 @@
 ## Modifications since version 2.x
 
+### 11.3.0
+
+ * Add Characters
+   - REVERSED SEMICOLON (`U+204F`);
+   - REVERSED QUESTION MARK (`U+2E2E`);
+   - REVERSED COMMA (`U+2E41`);
+   - DOUBLE LOW-REVERSED-9 QUOTATION MARK (`U+2E42`);
+ * Add `fourfold-solid-inner` variants for `@` (#1285).
+ * Change the layout of control picture subglyphs from horizontal to diagonal (#1286).
+
+
+### 11.2.7
+
+* Add characters:
+  - LIGHT VERTICAL BAR (`U+2758`) ... HEAVY VERTICAL BAR (`U+275A`).
+
+
+### 11.2.6
+
+ * Fix variant selection of CIRCLED ZERO WITH SLASH (`U+1F10D`) (#1274).
+
+
+### 11.2.5
+
+ * Add split-slash variants of `0` (#1270).
+ * Add ligation set for Dafny (#1271).
+
+
 ### 11.2.4
 
  * Add spacing grade `quasi-proportional-extension-only`.
