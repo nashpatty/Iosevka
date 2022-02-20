@@ -32,11 +32,11 @@ glyph-block Digits-Zero : begin
 
 
 	define [ZeroSlash top] : dispiro
-		flat 0 (top * (1 - 1.20)) [widths.center [AdviceStroke 7]]
+		flat 0 (top * (1 - 1.20)) [widths.center [AdviceStroke 8]]
 		curl Width (top * 1.20)
 
 	define [ZeroReverseSlash top] : dispiro
-		flat 0 (top * 1.20) [widths.center [AdviceStroke 7]]
+		flat 0 (top * 1.20) [widths.center [AdviceStroke 8]]
 		curl Width (top * (1 - 1.20))
 
 	define CircleInnerWidth : RightSB - SB - HVContrast * Stroke * 2
