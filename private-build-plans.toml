@@ -22,8 +22,6 @@ no-cv-ss = true
     ampersand = "upper-open"
     at = "fourfold-solid-inner"
     caret = "high"
-    dollar = "open"
-    cent = "open"
     question = "corner"
     punctuation-dot = "square"
 
