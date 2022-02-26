@@ -36,8 +36,8 @@ glyph-block Letter-Latin-Lower-L : begin
 
 	define [ZShapedBody df xMiddle] : glyph-proc
 		include : VBar xMiddle 0 (CAP - Stroke)
-		include : tagged 'serifLT' : LeftwardTopSerif xMiddle CAP (LongJut * df.div)
-		include : tagged 'serifRB' : RightwardBottomSerif xMiddle 0 (LongJut * df.div)
+		include : tagged 'serifLT' : LeftwardTopSerif xMiddle CAP (LongJut * 0.98 * df.div)
+		include : tagged 'serifRB' : RightwardBottomSerif xMiddle 0 (LongJut * 1.02 *df.div)
 
 	define [SeriflessBody df xMiddle] : glyph-proc
 		include : VBar xMiddle 0 CAP
