@@ -9,7 +9,7 @@ no-cv-ss = true
 
     [buildPlans.iosevka.variants.design]
     g = "double-storey"
-    l = "zshaped"
+    l = "serifed-flat-tailed"
     zero = "slashed-split"
     four = "closed"
     five = "oblique-upper-left-bar"
