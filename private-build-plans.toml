@@ -10,7 +10,7 @@ no-cv-ss = true
     [buildPlans.iosevka.variants.design]
     g = "double-storey"
     l = "zshaped"
-    zero = "reverse-slashed-split"
+    zero = "slashed-split"
     four = "closed"
     five = "oblique-upper-left-bar"
     six = "straight-bar"
@@ -20,14 +20,10 @@ no-cv-ss = true
     ampersand = "upper-open"
     at = "fourfold-solid-inner"
     caret = "high"
-    question = "corner"
 
     [buildPlans.iosevka.variants.italic]
-    f = "flat-hook-tailed"
     g = "single-storey-serifless"
-    j = "serifed"
     l = "tailed-serifed"
-    t = "standard"
 
 [buildPlans.iosevka.weights.regular]
 shape = 400
