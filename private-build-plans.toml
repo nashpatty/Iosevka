@@ -40,11 +40,6 @@ shape = 700
 menu = 700
 css = 700
 
-[buildPlans.iosevka.widths.normal]
-shape = 500
-menu = 5
-css = "normal"
-
 [buildPlans.iosevka.slopes.upright]
 angle = 0
 shape = "upright"
