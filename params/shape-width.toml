@@ -1,5 +1,5 @@
 [shapeWidth.blend.500]
-width        = 500
+width           = 500
 [shapeWidth.multiplies.blend.500]
 contrast        = 1
 stroke          = 1
@@ -16,7 +16,7 @@ smallArchDepth  = 1
 
 # "Grade 9"
 [shapeWidth.blend.720]
-width        = 720
+width           = 720
 [shapeWidth.multiplies.blend.720]
 contrast        = 1.044
 stroke          = 1.103 # Make strokes a little thicker
@@ -33,7 +33,7 @@ smallArchDepth  = 1.103
 
 # "Grade 8"
 [shapeWidth.blend.657]
-width        = 657
+width           = 657
 [shapeWidth.multiplies.blend.657]
 stroke          = 1.075 # Make strokes a little thicker
 sb              = 1.612
@@ -49,7 +49,7 @@ smallArchDepth  = 1.075
 
 # "Grade 7"
 [shapeWidth.blend.600]
-width        = 600
+width           = 600
 [shapeWidth.multiplies.blend.600]
 stroke          = 1.050 # Make strokes a little thicker
 sb              = 1.375
@@ -65,7 +65,7 @@ smallArchDepth  = 1.050
 
 # "Grade 6"
 [shapeWidth.blend.547]
-width        = 547
+width           = 547
 [shapeWidth.multiplies.blend.547]
 stroke          = 1.023 # Make strokes a little thicker
 sb              = 1.173
@@ -81,7 +81,7 @@ smallArchDepth  = 1.023
 
 # "Grade 4"
 [shapeWidth.blend.456]
-width        = 456
+width           = 456
 [shapeWidth.multiplies.blend.456]
 contrast        = 1
 stroke          = 0.976
@@ -98,7 +98,7 @@ smallArchDepth  = 0.975
 
 # "Grade 3"
 [shapeWidth.blend.416]
-width        = 416
+width           = 416
 [shapeWidth.multiplies.blend.416]
 contrast        = 1
 stroke          = 0.952
